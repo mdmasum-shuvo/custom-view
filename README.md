@@ -1,5 +1,9 @@
 # custom-view
-
+This is view like a view such as edit text,textview,imageview etc.
+Android offers a sophisticated and powerful componentized model for building your UI, 
+based on the fundamental layout classes: View and ViewGroup. To start with, the platform 
+includes a variety of prebuilt View and ViewGroup subclasses — called widgets and layouts,
+ respectively — that you can use to construct your UI.
 ## The App Feature:
 
     -Draw a functional custom view
