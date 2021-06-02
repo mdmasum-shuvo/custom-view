@@ -10,5 +10,6 @@
 ## App Screenshot 
 
 <img src="https://raw.githubusercontent.com/mdmasum-shuvo/custom-view/main/ss/1.jpg" width=30% height=30%> 
+<img src="https://raw.githubusercontent.com/mdmasum-shuvo/custom-view/main/ss/2.jpg" width=30% height=30%> 
         
        
