@@ -7,7 +7,8 @@
         -Use canvas and paint to draw view
 
 
-#App-Screenshot
+## App Screenshot 
+
 <img src="https://raw.githubusercontent.com/mdmasum-shuvo/custom-view/main/ss/1.jpg" width=30% height=30%> 
         
        
