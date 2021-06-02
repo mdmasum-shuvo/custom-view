@@ -5,3 +5,6 @@
         -Perform click on the view
         -Draw fan controller as a sample View
         -Use canvas and paint to draw view
+        
+        
+       
