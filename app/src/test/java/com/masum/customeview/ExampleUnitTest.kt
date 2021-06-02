@@ -1,4 +1,4 @@
-package com.appinion.customeview
+package com.masum.customeview
 
 import org.junit.Test
 
